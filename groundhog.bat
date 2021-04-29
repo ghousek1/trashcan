@@ -11,8 +11,8 @@ git add .
 
 git status -s
 
-git commit -m "Commit %DATE% %TIME% _testing command prompt git commit"
+git commit -m "Commit %DATE% _ %TIME% "
 
 git push -u origin main
 
-ECHO git pushed to the origin completed
+ECHO git push to the origin completed
