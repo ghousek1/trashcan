@@ -1,2 +1,3 @@
 2_1st commit test of auto git commandprompt
 ....
+added new lines
