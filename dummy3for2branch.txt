@@ -1,0 +1,2 @@
+this is the dummy2 text
+added for 2nd branch
