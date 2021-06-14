@@ -1,6 +1,8 @@
 #!/bin/bash
 echo "simple calculator"
-
+sum=0
+mul=0
+sub=0
 echo "enter first number"
 read n1
 echo "enter second number"
@@ -14,7 +16,7 @@ echo "Enter choice"
 read ch
 
 case $ch in
-1)sum= $n1 + $n2
+1)sum = $n1 + $n2
 echo "Addition is = $sum"
 ;;
 
