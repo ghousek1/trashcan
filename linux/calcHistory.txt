@@ -1,7 +1,0 @@
-5
-216
-Addition: 2 + 3 = 5
-multiplication: 4 X 2 = 8
-substraction: 4 - 2 = 2
-PowerUp: 23 ^ 4 = 279841
-Division: 4 / 5 = .80
